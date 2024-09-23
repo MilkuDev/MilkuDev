@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Raphael
+- 👋 Hi, I’m Milku
 - 👀 I’m just learning to code
-- 🌱 I’m currently learning python
-- 📫 How to reach me: Telegram: https://t.me/rur_brin,
-Gmail: raphaelwindfox@gmail.com
+- 🌱 I’m currently learning Kotlin
+- 📫 Telegram: https://t.me/rur_milk
 
 <!---
 RaphaelBrin/RaphaelBrin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
